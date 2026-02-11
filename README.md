@@ -6,11 +6,11 @@ Linear Regression using Google colab
 
 This project implements a Linear Regression model to predict housing prices in Boston using various socio-economic and structural features. The model is built and evaluated using Python and Scikit-learn in a Google Colab.
 
-Project Overview -
+# Project Overview -
 
 The goal of this project is to predict the median value of owner-occupied homes (MEDV) in Boston suburbs based on different features such as crime rate, age, property tax rate, etc.
 
-Dataset Information -
+# Dataset Information -
 
 The Boston Housing dataset contains 506 samples with 13 features:
 
@@ -29,11 +29,11 @@ PTRATIO	Pupil-teacher ratio
 B	Proportion of Black population
 LSTAT	% lower status of population
 
-Target Variable -
+# Target Variable -
 
 MEDV → Median house price (in $1000s)
 
-Tech Stack -
+# Tech Stack -
 
 Python 3.x
 
@@ -49,7 +49,7 @@ Seaborn
 
 Scikit-learn
 
-Project Workflow -
+# Project Workflow -
 
 Import required libraries
 
@@ -67,11 +67,11 @@ Make predictions
 
 Evaluate model performance
 
-Model Used -
+# Model Used -
 Linear Regression
 
 
-Model Evaluation Metrics -
+# Model Evaluation Metrics -
 
 Mean Absolute Error (MAE)
 
@@ -80,7 +80,8 @@ Mean Squared Error (MSE)
 Root Mean Squared Error (RMSE)
 
 R² Score
-Visualizations Included -
+
+# Visualizations Included -
 
 Correlation Heatmap
 
@@ -89,6 +90,27 @@ Regression Analysis
 Actual vs Predicted Price Graph
 
 Residual Plot
+
+# Team Contribution
+# Member 1 (Janhvi Raghuvanshi, CSJMA23001390286)
+Dataset loading and preprocessing
+Exploratory Data Analysis and visualization
+Polynomial Regression
+Model evaluation (MSE, RMSE, R²)
+Residual analysis
+
+# Member 2 (Rishu Yadav, CSJMA23001390306)
+feature distributions and correlation heatmap
+Simple Linear Regression
+Multiple Linear Regression
+Ridge and Lasso Regression
+Output plots/figures
+
+
+
+
+
+
 
 
 
