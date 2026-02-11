@@ -4,10 +4,101 @@ Boston Housing Price Prediction using Linear Regression
 Boston Housing Price Prediction - 
 Linear Regression using Google colab
 
-This project implements a Linear Regression model to predict housing prices in Boston using various socio-economic and structural features. The model is built and evaluated using Python and Scikit-learn in a Jupyter Notebook environment.
+This project implements a Linear Regression model to predict housing prices in Boston using various socio-economic and structural features. The model is built and evaluated using Python and Scikit-learn in a Google Colab.
 
-Project Overview
+Project Overview -
 
-The goal of this project is to predict the median value of owner-occupied homes (MEDV) in Boston suburbs based on different features such as crime rate, number of rooms, property tax rate, etc.
+The goal of this project is to predict the median value of owner-occupied homes (MEDV) in Boston suburbs based on different features such as crime rate, age, property tax rate, etc.
 
-This is a classic regression problem in Machine Learning.
+Dataset Information -
+
+The Boston Housing dataset contains 506 samples with 13 features:
+
+Feature	Description -
+CRIM	Per capita crime rate
+ZN	Residential land zoned (%)
+INDUS	Proportion of non-retail business acres
+CHAS	Charles River dummy variable
+NOX	Nitric oxides concentration
+RM	Average number of rooms
+AGE	Proportion of owner-occupied units built prior to 1940
+DIS	Distance to employment centers
+RAD	Index of accessibility to highways
+TAX	Property tax rate
+PTRATIO	Pupil-teacher ratio
+B	Proportion of Black population
+LSTAT	% lower status of population
+
+Target Variable -
+
+MEDV → Median house price (in $1000s)
+
+Tech Stack -
+
+Python 3.x
+
+Google Colab
+
+NumPy
+
+Pandas
+
+Matplotlib
+
+Seaborn
+
+Scikit-learn
+
+Project Workflow -
+
+Import required libraries
+
+Load dataset
+
+Perform Exploratory Data Analysis (EDA)
+
+Check correlation between features
+
+Split data into training and testing sets
+
+Train Linear Regression model
+
+Make predictions
+
+Evaluate model performance
+
+Model Used -
+Linear Regression
+
+
+Model Evaluation Metrics -
+
+Mean Absolute Error (MAE)
+
+Mean Squared Error (MSE)
+
+Root Mean Squared Error (RMSE)
+
+R² Score
+Visualizations Included -
+
+Correlation Heatmap
+
+Regression Analysis
+
+Actual vs Predicted Price Graph
+
+Residual Plot
+
+
+
+
+
+
+
+
+
+
+
+
+
