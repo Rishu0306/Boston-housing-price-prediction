@@ -16,17 +16,29 @@ The Boston Housing dataset contains 506 samples with 13 features:
 
 Feature	Description -
 CRIM	Per capita crime rate
+
 ZN	Residential land zoned (%)
+
 INDUS	Proportion of non-retail business acres
+
 CHAS	Charles River dummy variable
+
 NOX	Nitric oxides concentration
+
 RM	Average number of rooms
+
 AGE	Proportion of owner-occupied units built prior to 1940
+
 DIS	Distance to employment centers
+
 RAD	Index of accessibility to highways
+
 TAX	Property tax rate
+
 PTRATIO	Pupil-teacher ratio
+
 B	Proportion of Black population
+
 LSTAT	% lower status of population
 
 # Target Variable -
@@ -94,17 +106,26 @@ Residual Plot
 # Team Contribution
 # Member 1 (Janhvi Raghuvanshi, CSJMA23001390286)
 Dataset loading and preprocessing
+
 Exploratory Data Analysis and visualization
+
 Polynomial Regression
+
 Model evaluation (MSE, RMSE, R²)
+
 Residual analysis
 
 # Member 2 (Rishu Yadav, CSJMA23001390306)
 feature distributions and correlation heatmap
+
 Simple Linear Regression
+
 Multiple Linear Regression
+
 Ridge and Lasso Regression
+
 Output plots/figures
+
 
 
 
