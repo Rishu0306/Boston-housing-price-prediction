@@ -15,31 +15,32 @@ The goal of this project is to predict the median value of owner-occupied homes 
 The Boston Housing dataset contains 506 samples with 13 features:
 
 Feature	Description -
+
 CRIM	Per capita crime rate
 
-ZN	Residential land zoned (%)
+ZN	  Residential land zoned (%)
 
 INDUS	Proportion of non-retail business acres
 
 CHAS	Charles River dummy variable
 
-NOX	Nitric oxides concentration
+NOX	  Nitric oxides concentration
 
-RM	Average number of rooms
+RM	  Average number of rooms
 
-AGE	Proportion of owner-occupied units built prior to 1940
+AGE	  Proportion of owner-occupied units built prior to 1940
 
-DIS	Distance to employment centers
+DIS	  Distance to employment centers
 
-RAD	Index of accessibility to highways
+RAD	  Index of accessibility to highways
 
-TAX	Property tax rate
+TAX	  Property tax rate
 
 PTRATIO	Pupil-teacher ratio
 
-B	Proportion of Black population
+B	    Proportion of Black population
 
-LSTAT	% lower status of population
+LSTAT	 % lower status of population
 
 # Target Variable -
 
